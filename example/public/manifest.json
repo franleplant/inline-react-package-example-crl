@@ -1,0 +1,8 @@
+{
+  "short_name": "inline-react-package-example-crl",
+  "name": "inline-react-package-example-crl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
